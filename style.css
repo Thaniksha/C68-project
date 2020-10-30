@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background: linear-gradient(#fc036b 50%, #0c1291 100%);
+}
+#marqueeStyle{
+    background-color: blue;
+    height: 50px;
+    font-size: 30px;
+}
+.details h3,h4{
+    font-size:35px;
+}
+
